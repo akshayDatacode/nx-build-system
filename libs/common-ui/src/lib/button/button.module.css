@@ -1,0 +1,17 @@
+/*
+ * Replace this with your own classes
+ *
+ * e.g.
+ * .container {
+ * }
+*/
+
+.button {
+  background-color: blueviolet;
+  text-align: center;
+  color: aliceblue;
+  font-weight: 400;
+  font-size: 30px;
+  border-radius: 5px;
+  border-style: none;
+}
