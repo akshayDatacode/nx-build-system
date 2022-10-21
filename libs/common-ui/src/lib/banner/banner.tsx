@@ -1,3 +1,4 @@
+import Button from '../button/button';
 import styles from './banner.module.css';
 
 /* eslint-disable-next-line */

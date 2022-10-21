@@ -8,7 +8,7 @@ export function App() {
   return (
     <>
       {/* <NxWelcome title="store" /> */}
-      <Banner text="Fusion Application" />
+      <Banner text="Store Application" />
       <Button name="Store Button" />
       <ul>
         {exampleProducts.map((product) => (

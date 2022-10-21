@@ -11,7 +11,7 @@ export function App() {
     <>
       {/* <NxWelcome title="admin" /> */}
       <div />
-      <Banner text="Phoenix Application" />
+      <Banner text="Admin Application" />
       <Button name="Apply Now!!" />
       <ul>
         {exampleProducts.map((product) => (
